@@ -15,7 +15,7 @@
     
     </body>
 
-    How to add hyperlink 
+   <!--This is a comment. Below this where hyperlink-->  
 
         <style>
         p::selection {
@@ -27,10 +27,10 @@
 
     </body>
       
-    HIGH LIGHT PARAGRAPH
+    <!--This is a comment. Below this where I make PARAGRAPH highlight in the browser-->
     <style>
         a::before {
-          content: "\21d2 Click here";
+          content: "\21d2 Click Here";
           font-weight: bold;
       }
       </style>
@@ -48,24 +48,29 @@
 
 
 </body>
-  
-   
-    <div class="hero">
-        <h1></h1>
-        <img src="ARFISH.jpg" width="50%">
 
-
-        body> 
-    <h1>
-        <a HREF = "http://www.google.com/">ls</a></h1>
-
-    <body>
+<!--This is a comment. Belwo this where you click for at least four different html pages-->  
 
 <body>
-    <li><a href="Click here http://www.google.com/"></a></li>
-    <li><a href="#section2">Section 2</a></li>
-    <li><a href="#section3">Section 3</a></li>
-    <li><a href="#section4">Section 4</a></li>
+    
+        
+            
+                <h3>
+                    <a HREF = "http://www.google.com/"></a></h3>
+                    <h3>
+                        <a HREF = "http://www.google.com/"></a></h3>
+                        <h3>
+                            <a HREF = "http://www.google.com/"></a></h3>
+                            <h3>
+                                <a HREF = "http://www.google.com/"></a></h3>
+
+    
+ <!--This is a comment. Belwo this where one list (ordered or unordered)--> 
+<body>
+   
+    
+</body>
+
 
 
 
