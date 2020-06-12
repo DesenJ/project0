@@ -1,11 +1,73 @@
-# Project 0
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>My ASKIM Webpage</title>
-    </head>
-    <body>
-        Hello, world!
+<html lang="en">   
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Askim Webpage</title>
+    <link rel="stylesheet" href="style.css"
+
+</head>
+
+<body>
+<h1>My Askim Webpage</h1> 
+    <p>Hello, world!
+        My name is James I’ve lived bin Florida, I am used to be in the military U.S  Active Army then Air Force Reserve, but currently unemployed after coworkers unlawfully lied on me and got me fired. This what my sacrifice for my country paid back. This is my first time in EDX  pursuing this java and html certification hoping to land me a new career and I’m excited to feed my brain with some good knowledge. I have my associate  and BS degree but  I’ am not a fan of online classes because I am a visual learner type. Anything else feel free to ask and welcome again</p>
+    
     </body>
+
+    How to add hyperlink 
+
+        <style>
+        p::selection {
+              color: rgb(0, 247, 255);
+              background-color: cadetblue;
+        }
+        
+        </style>
+
+    </body>
+      
+    HIGH LIGHT PARAGRAPH
+    <style>
+        a::before {
+          content: "\21d2 Click here";
+          font-weight: bold;
+      }
+      </style>
+
+    
+
+<style>
+   p:: selection {
+        color: red;
+            background-color: Blue;
+   }
+  </style>
+  
+
+
+
+</body>
+  
+   
+    <div class="hero">
+        <h1></h1>
+        <img src="ARFISH.jpg" width="50%">
+
+
+        body> 
+    <h1>
+        <a HREF = "http://www.google.com/">ls</a></h1>
+
+    <body>
+
+<body>
+    <li><a href="Click here http://www.google.com/"></a></li>
+    <li><a href="#section2">Section 2</a></li>
+    <li><a href="#section3">Section 3</a></li>
+    <li><a href="#section4">Section 4</a></li>
+
+
+
+</body>
 </html>
-Web Programming with Python and JavaScript
