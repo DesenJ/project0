@@ -11,7 +11,10 @@
 <body>
 <h1>My Askim Webpage</h1> 
     <p>Hello, world!
-        My name is James I’ve lived bin Florida, I am used to be in the military U.S  Active Army then Air Force Reserve, but currently unemployed after coworkers unlawfully lied on me and got me fired. This what my sacrifice for my country paid back. This is my first time in EDX  pursuing this java and html certification hoping to land me a new career and I’m excited to feed my brain with some good knowledge. I have my associate  and BS degree but  I’ am not a fan of online classes because I am a visual learner type. Anything else feel free to ask and welcome again</p>
+        My name is James I’ve lived in Florida, I am used to be in the military U.S  Active Army then Air Force Reserve, but currently unemployed. I was working for the VA unfortunatly coworker(s) unlawfully lied and discriminate agaisnt me and got me fired. 
+        This what my sacrifice for my country paid back. This is my first time in EDX  pursuing this java and html certification, I am  hoping to land me a new career and I’m excited to feed my brain with some good knowledge.
+         I have my associate  and BS degree but  I’ am not a fan of online classes. In the links you will notice some vacation places I am advertising, because my beautiful wife is from 
+         Turkey and there's so much to explore there. Anything else feel free to ask and welcome again</p>
     
     </body>
 
@@ -49,29 +52,44 @@
 
 </body>
 
-<!--This is a comment. Belwo this where you click for at least four different html pages-->  
+ <!--This is a comment. Below this where one list (ordered or unordered)--> 
+<body>
+    <body>
+        An Unordered List:
+        <ul>
+            <li>Malatya</li>
+            <li>Antalya</li>
+            <li>Izmir</li>
+            <li>Ankara</li>
+        </ul>
+        An Ordered List:
+        <ol>
+            <li>Boston</li>
+            <li>Maryland</li>
+            <li>Tennesse</li>
+            <li>Washington DC</li>
+        </ol>
+    
+    
+</body>
 
+<!--This is a comment. Below this where you click for at least four different html pages--> 
 <body>
     
         
             
+    <h3>
+        <a HREF = "https://turkeytravelplanner.com/go/East/malatya/index.html/"></a></h3>
+        <h3>
+            <a HREF = "https://www.youtube.com/watch?v=RkN78AAXqLw/"></a></h3>
+            <h3>
+                <a HREF = "https://www.youtube.com/watch?v=g_4polOWmZU/"></a></h3>
                 <h3>
-                    <a HREF = "http://www.google.com/"></a></h3>
-                    <h3>
-                        <a HREF = "http://www.google.com/"></a></h3>
-                        <h3>
-                            <a HREF = "http://www.google.com/"></a></h3>
-                            <h3>
-                                <a HREF = "http://www.google.com/"></a></h3>
+                    <a HREF = "https://www.hurriyetdailynews.com/ankara-berlin-continue-dialogue-on-tourism-155578/"></a></h3>
 
-    
- <!--This is a comment. Belwo this where one list (ordered or unordered)--> 
-<body>
-   
-    
+
+
 </body>
-
-
 
 
 </body>
