@@ -104,6 +104,32 @@
 
 </body>
 
+
+
+<!--In this comment. Below this where if I am on a smaller window  or anything smaller than that  their background ends will be blue-->
+<style>
+@media (min-width: 500 px) {
+body {
+    background-color: grey;
+
+    }
+    
+    }
+@media (max-width: 499px) {
+    
+    body{
+         background-color: navy;
+}
+
+}
+
+
+
+</style>
+
+
+
+
 <!--In this comment. Below this where CSS properties, five different types of CSS selectors in my page-->
 
 <h2><!--In this comment. Later on I can add more paragraphs--></h2>
