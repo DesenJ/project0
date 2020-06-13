@@ -4,21 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Askim Webpage</title>
-    <link rel="stylesheet" href="style.css"
+    <link rel="stylesheet" href="style.css">
 
 </head>
-
+                     <!--This is a comment. Below this where I set the paragraph italic--> 
 <body>
 <h1>My Askim Webpage</h1> 
-    <p>Hello, world!
+    <p><i>
         My name is James I’ve lived in Florida, I am used to be in the military U.S  Active Army then Air Force Reserve, but currently unemployed. I was working for the VA unfortunatly coworker(s) unlawfully lied and discriminate agaisnt me and got me fired. 
         This what my sacrifice for my country paid back. This is my first time in EDX  pursuing this java and html certification, I am  hoping to land me a new career and I’m excited to feed my brain with some good knowledge.
          I have my associate  and BS degree but  I’ am not a fan of online classes. In the links you will notice some vacation places I am advertising, because my beautiful wife is from 
-         Turkey and there's so much to explore there. Anything else feel free to ask and welcome again</p>
+         Turkey and there's so much to explore there. Anything else feel free to ask and welcome again</p></i>
     
     </body>
 
-   <!--This is a comment. Below this where hyperlink-->  
+   <!--This is a comment. Below this where style-->  
 
         <style>
         p::selection {
@@ -27,8 +27,6 @@
         }
         
         </style>
-
-    </body>
       
     <!--This is a comment. Below this where I make PARAGRAPH highlight in the browser-->
     <style>
@@ -40,17 +38,38 @@
 
     
 
-<style>
-   p:: selection {
-        color: red;
-            background-color: Blue;
-   }
-  </style>
-  
+<!--This is a comment. Below this where background image in my page--> 
 
+<style>
+
+    body {
+    
+      background-image: url('25.jpg');
+    
+      background-repeat: no-repeat;
+    
+      background-attachment: fixed;  
+    
+      background-size: cover;
+    
+    }
+    
+    </style>
+    
+    <body>
+    
+    
+    
+    <h2>Background Cover</h2>
+    
+    
+    
+    <p>Set the background-size property to "cover" and the background image will cover the entire element, in this case the BODY element.</p>
 
 
 </body>
+
+
 
  <!--This is a comment. Below this where one list (ordered or unordered)--> 
 <body>
@@ -73,7 +92,6 @@
     
 </body>
 
-<!--This is a comment. Below this where you click for at least four different html pages--> 
 <body>
     
         
@@ -89,12 +107,7 @@
 
 </body>
 
-<!--This is a comment. Below this where I placed the stylesheet in page--> 
-
-<body>
-
-
-</body>
+<!--This is a comment. Below this where CSS properties, five different types of CSS selectors in my page-->
 
 </body>
 </html>
