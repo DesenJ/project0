@@ -104,7 +104,8 @@ Turkey and there's so much to explore there. </p></i>
 </body>
 
 <!--This is a comment. Below this where CSS properties, five different types of CSS selectors in my page-->
-<h2>Alternative text</h2>
+
+<h2><!--This is a comment. Later on I can add more paragraphs--></h2>
 
 <p><i>Anything else feel free to ask and I welcome you again </p></i>
 
