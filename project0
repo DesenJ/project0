@@ -8,7 +8,7 @@
 
 </head>
 
-<!--This is a comment. Below this where I set the paragraph italic--> 
+<!--TIn this comment.Below this where I set the paragraph italic--> 
 <body>
 <h1>My Askim Webpage</h1> 
     <p><i>
@@ -18,7 +18,7 @@
     
     </body>
 
-   <!--This is a comment. Below this where style-->  
+   <!--In this comment. Below this where style-->  
 
         <style>
         p::selection {
@@ -28,7 +28,7 @@
         
         </style>
       
-    <!--This is a comment. Below this where I make PARAGRAPH highlight in the browser-->
+    <!--TIn this comment. Below this where I make PARAGRAPH highlight in the browser-->
     <style>
         a::before {
           content: "\21d2 Click Here";
@@ -38,7 +38,7 @@
 
     
 
-<!--This is a comment. Below this where background image in my page--> 
+<!--In this comment. Below this where background image in my page--> 
 
 <style>
 
@@ -63,12 +63,12 @@
     <h2></h2>
     
     
-    <!--This is a comment. Below this where I added paparagrph-->
-    <p><i> I have my associate  and BS degree but  I’ am not a fan of online classes. In the links you will notice some vacation places I am advertising, because my beautiful wife is from 
-Turkey and there's so much to explore there. </p></i> 
-
+    <!--In this comment. Below this where I added Screen Only paparagrph-->
+     <p> class="I have my Associate  and Bachelor degree but  I’ am not a fan of online classes. In the links you will notice some vacation places I am advertising, because my beautiful wife is from 
+     Turkey and there's so much to explore there.</p> 
+    
 </body>
- <!--This is a comment. Below this where one list (ordered or unordered)--> 
+ <!--In this comment. Below this where one list (ordered or unordered)--> 
 <body>
     <body>
         An Unordered List:
@@ -103,13 +103,30 @@ Turkey and there's so much to explore there. </p></i>
 
 </body>
 
-<!--This is a comment. Below this where CSS properties, five different types of CSS selectors in my page-->
+<!--TIn this comment. Below this where CSS properties, five different types of CSS selectors in my page-->
 
-<h2><!--This is a comment. Later on I can add more paragraphs--></h2>
+<h2><!--TIn this comment. Later on I can add more paragraphs--></h2>
 
 <p><i>Anything else feel free to ask and I welcome you again </p></i>
 
 <img src="MIAMI FISH.JPG" alt="Flowers in Chania" width="460" height="345">
+
+
+
+<!--TIn this comment.  Below is Meida Query if someone wants to Print  it will not be visible -->
+
+<head>
+    <style> @media print {
+        .screen-only { 
+
+            display: none;
+        }
+    }
+        
+        </style>
+
+</head>
+
 
 </body>
 </body>
