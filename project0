@@ -7,14 +7,14 @@
     <link rel="stylesheet" href="style.css">
 
 </head>
-                     <!--This is a comment. Below this where I set the paragraph italic--> 
+
+<!--This is a comment. Below this where I set the paragraph italic--> 
 <body>
 <h1>My Askim Webpage</h1> 
     <p><i>
         My name is James I’ve lived in Florida, I am used to be in the military U.S  Active Army then Air Force Reserve, but currently unemployed. I was working for the VA unfortunatly coworker(s) unlawfully lied and discriminate agaisnt me and got me fired. 
         This what my sacrifice for my country paid back. This is my first time in EDX  pursuing this java and html certification, I am  hoping to land me a new career and I’m excited to feed my brain with some good knowledge.
-         I have my associate  and BS degree but  I’ am not a fan of online classes. In the links you will notice some vacation places I am advertising, because my beautiful wife is from 
-         Turkey and there's so much to explore there. Anything else feel free to ask and welcome again</p></i>
+         </p></i>
     
     </body>
 
@@ -60,17 +60,14 @@
     
     
     
-    <h2>Background Cover</h2>
+    <h2></h2>
     
     
-    
-    <p>Set the background-size property to "cover" and the background image will cover the entire element, in this case the BODY element.</p>
-
+    <!--This is a comment. Below this where I added paparagrph-->
+    <p><i> I have my associate  and BS degree but  I’ am not a fan of online classes. In the links you will notice some vacation places I am advertising, because my beautiful wife is from 
+Turkey and there's so much to explore there. </p></i> 
 
 </body>
-
-
-
  <!--This is a comment. Below this where one list (ordered or unordered)--> 
 <body>
     <body>
@@ -91,7 +88,6 @@
     
     
 </body>
-
 <body>
     
         
@@ -108,6 +104,12 @@
 </body>
 
 <!--This is a comment. Below this where CSS properties, five different types of CSS selectors in my page-->
+<h2>Alternative text</h2>
 
+<p><i>Anything else feel free to ask and I welcome you again </p></i>
+
+<img src="MIAMI FISH.JPG" alt="Flowers in Chania" width="460" height="345">
+
+</body>
 </body>
 </html>
