@@ -32,7 +32,7 @@
     <!--In this comment. Below this where I make PARAGRAPH highlight in the browser-->
     <style>
         a::before {
-          content: "\21d2 Click Here";
+          content: "\21d2 Click here";
           font-weight: bold;
       }
       </style>
@@ -45,7 +45,7 @@
 
     body {
     
-      background-image: url('25.jpg');
+      background-image: url('Wheel.jpg');
     
       background-repeat: no-repeat;
     
@@ -178,6 +178,7 @@ body {
 </body>
 
 </body>
+
 
 </body>
 </html>
