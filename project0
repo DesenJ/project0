@@ -9,7 +9,7 @@
 
 </head>
 
-<!--In this comment. Below this where I set the paragraph italic--> 
+<!--In this comment. Below this where I set the paragraph italic before using bootstraps
 <body>
 <h1>My Askim Webpage</h1> 
     <p><i>
@@ -17,6 +17,21 @@
         This what my sacrifice for my country paid back. This is my first time in EDX  pursuing this java and html certification, I am  hoping to land me a new career and I’m excited to feed my brain with some good knowledge.
          </p></i>
     
+    </body--> >   
+
+
+       <!--In this comment. BELOW I USED BOOTSTRAPS AND I GOT THIS AWESOME DISPLAY-->  
+
+    <body>
+    
+    
+        <div class="container"> 
+            <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+            <h1> Hello, world this is my askim Webpage!</h1>
+            <p> My name is James I’ve lived in Florida, I am used to be in the military U.S  Active Army then Air Force Reserve, but currently unemployed. I was working for the VA unfortunatly coworker(s) unlawfully lied and discriminate agaisnt me and got me fired. 
+                This what my sacrifice for my country paid back. This is my first time in EDX  pursuing this java and html certification, I am  hoping to land me a new career and I’m excited to feed my brain with some good knowledge. </p>
+    
+    </div>
     </body>
 
    <!--In this comment. Below this where style-->  
@@ -176,9 +191,9 @@ body {
 
 
 </body>
-
 </body>
 
+<!--In this comment. Below this where    in my page-->
 
 </body>
 </html>
