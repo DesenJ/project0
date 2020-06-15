@@ -1,21 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">   
+    <head>
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Askim Webpage</title>
-    <link rel="stylesheet" href="style.css"
+    <link rel="stylesheet" href="style.css">
 
 </head>
 
+
+
+<!--In this comment. Below this where I set the paragraph italic before using bootstraps
 <body>
 <h1>My Askim Webpage</h1> 
-    <p>Hello, world!
-        My name is James I’ve lived bin Florida, I am used to be in the military U.S  Active Army then Air Force Reserve, but currently unemployed after coworkers unlawfully lied on me and got me fired. This what my sacrifice for my country paid back. This is my first time in EDX  pursuing this java and html certification hoping to land me a new career and I’m excited to feed my brain with some good knowledge. I have my associate  and BS degree but  I’ am not a fan of online classes because I am a visual learner type. Anything else feel free to ask and welcome again</p>
+    <p><i>
+        My name is James I’ve lived in Florida, I am used to be in the military U.S  Active Army then Air Force Reserve, but currently unemployed. I was working for the VA unfortunatly coworker(s) unlawfully lied and discriminate agaisnt me and got me fired. 
+        This what my sacrifice for my country paid back. This is my first time in EDX  pursuing this java and html certification, I am  hoping to land me a new career and I’m excited to feed my brain with some good knowledge.
+         </p></i>
     
+    </body--> 
+
+
+       <!--In this comment. BELOW I USED BOOTSTRAPS AND I GOT THIS AWESOME DISPLAY-->  
+
+    <body>
+    
+    
+        <div class="container"> 
+            <h1> Hello, world this is my askim We!</h1>
+            <p> My name is James I’ve lived in Florida, I am used to be in the military U.S  Active Army then Air Force Reserve, but currently unemployed. I was working for the VA unfortunatly coworker(s) unlawfully lied and discriminate agaisnt me and got me fired. 
+                This what my sacrifice for my country paid back. This is my first time in EDX  pursuing this java and html certification, I am  hoping to land me a new career and I’m excited to feed my brain with some good knowledge. </p>
+    
+    </div>
     </body>
 
-    How to add hyperlink 
+   <!--In this comment. Below this where style-->  
 
         <style>
         p::selection {
@@ -24,10 +44,8 @@
         }
         
         </style>
-
-    </body>
       
-    HIGH LIGHT PARAGRAPH
+    <!--In this comment. Below this where I make PARAGRAPH highlight in the browser-->
     <style>
         a::before {
           content: "\21d2 Click here";
@@ -37,37 +55,193 @@
 
     
 
-<style>
-   p:: selection {
-        color: red;
-            background-color: Blue;
-   }
-  </style>
-  
+<!--In this comment. Below  Below this where background image in my page--> 
 
+<style>
+
+    body {
+    
+      background-image: url('Wheel.jpg');
+    
+      background-repeat: no-repeat;
+    
+      background-attachment: fixed;  
+    
+      background-size: cover;
+    
+    }
+    
+    </style>
+    
+    <body>
+    
+    
+    
+    <h2></h2>
+    
+    
+    <!--In this comment. Below  Below this where I added Screen Only paparagrph-->
+     <p class="screen-only"> I have my Associate  and Bachelor degree but  I’ am not a fan of online classes. In the links you will notice some vacation places I am advertising, because my beautiful wife is from 
+        Turkey and there's so much to explore there. </p> 
+    
+</body>
+
+ <!--In this comment. Below this where one list (ordered or unordered)--> 
+<body>
+    <body>
+        An Unordered List:
+        <ul>
+            <li>Malatya</li>
+            <li>Antalya</li>
+            <li>Izmir</li>
+            <li>Ankara</li>
+        </ul>
+        An Ordered List:
+        <ol>
+            <li>Boston</li>
+            <li>Maryland</li>
+            <li>Tennesse</li>
+            <li>Washington DC</li>
+        </ol>
+    
+    
+</body>
+<body>
+    
+        
+            
+    <h3>
+        <a HREF = "https://turkeytravelplanner.com/go/East/malatya/index.html/"></a></h3>
+        <h3>
+            <a HREF = "https://www.youtube.com/watch?v=RkN78AAXqLw/"></a></h3>
+            <h3>
+                <a HREF = "https://www.youtube.com/watch?v=g_4polOWmZU/"></a></h3>
+                <h3>
+                    <a HREF = "https://www.hurriyetdailynews.com/ankara-berlin-continue-dialogue-on-tourism-155578/"></a></h3>
+
+</body>
+
+<title>American City</title>
+    <style>
+        table {
+            border: 2px solid rgb(248, 237, 237);
+            border-collapse: collapse;
+            width: 50%;
+        }
+
+        th, td {
+            border: 1px solid rgb(222, 235, 166);
+            padding: 5px;
+            text-align: center;
+        }
+
+        th {
+            background-color: lightgray;
+        }
+    </style>
+
+
+<table>
+    <tbody><tr>
+        <th>Boston</th>
+        <th>Maryland</th>
+        <th>Tennessee</th>
+        
+    </tr>
+
+    <tr>
+        <td>John</td>
+        <td>Winthrop</td>
+        <td>1588-1649</td>
+    </tr>
+    <tr>
+        <td>LORD</td>
+        <td>Baltimore</td>
+        <td>1634-1649</td>
+    </tr>
+       <tr>
+        <td>LORD</td>
+        <td>Mullet</td>
+        <td>1541-1714</td>
+    </tr>
+    
+    <tr>
+        <td>Micheal</td>
+        <td>Simmons</td>
+        <td>1853-1889</td>   
+    </tr>
+</tbody></table>
+
+</head>
+
+
+            
+        
+
+
+<!--In this comment. Below this where if I am on a smaller window  or anything smaller than that  their background ends will be blue-->
+<style>
+@media (min-width: 500 px) {
+body {
+    background-color: grey;
+
+    }
+    
+    }
+@media (max-width: 499px) {
+    
+    body{
+         background-color: navy;
+}
+
+}
+
+</style>
+
+
+
+
+
+<h2><!--In this comment. Later on I can add more paragraphs--></h2>
+
+<p><i>Anything else feel free to ask and I welcome you again </p></i>
+
+<img src="MIAMI FISH.JPG" alt="Flowers in Chania" width="460" height="345">
+
+
+
+<!--In this comment. Above line 66 is  the Media Query if someone wants to Print,  it will not be visible on the page -->
+
+<head>
+    <style> @media print {
+        .screen-only { 
+
+            display: none;
+        }
+    }
+        
+        </style>
+
+</head>
 
 
 </body>
-  
-   
-    <div class="hero">
-        <h1></h1>
-        <img src="ARFISH.jpg" width="50%">
 
 
-        body> 
-    <h1>
-        <a HREF = "http://www.google.com/">ls</a></h1>
-
-    <body>
+<!--In this comment. Below this where I set Social Media lynk--> 
 
 <body>
-    <li><a href="Click here http://www.google.com/"></a></li>
-    <li><a href="#section2">Section 2</a></li>
-    <li><a href="#section3">Section 3</a></li>
-    <li><a href="#section4">Section 4</a></li>
+
+    <div class="social-buttons">
+      <a href="http://www.facebook.com/"><i class="facebook">facebook</i></a>
+      <a href="http://twitter.com/"><i class="twitter">twitter</i></a>
+      <a href="https://www.instagram.com/"><i class="instagram">instagram</i></a>
+      <a href="http://linkedin.com/"><i class="Linkedin-in">Linkedin</i></a>
 
 
+</body>
+
+</body>
 
 </body>
 </html>

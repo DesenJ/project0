@@ -1,0 +1,67 @@
+
+body {
+    background-color:;
+    background-image:url(../image/ARFISH.jpg);
+    color: rgb(255, 60, 0);
+    font-size: 21px;
+}
+
+
+
+    h1 {
+        font-size: 70px;
+    color: rgb(42, 238, 163);
+    text-align: center;
+}
+
+p {
+    color: rgb(216, 255, 41);
+}
+
+
+
+.footer-social-icons{
+    display:flex;
+    justify-content:center;
+    width:100%;
+    }
+  
+  .social-buttons a{
+    display: inline-flex;
+    text-decoration: none;
+    font-size: 18px;
+    width: 60px;
+    height: 60px;
+    color: rgb(253, 244, 244);
+    justify-content: middle;
+    align-items: center !important;
+    position: center !important;
+    margin: 0 8px;
+  }
+  
+  .social-buttons a::before{
+    content: "";
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background: linear-gradient(45deg,#de3eecb9,#262679);
+    border-radius: 50%;
+    z-index: -1;
+    transition: 0.3s ease-in;
+  }
+  
+  .social-buttons a:hover::before{
+    transform: scale(0);
+  }
+  
+  .social-buttons a i{
+    transition: 0.3s ease-in;
+  }
+  
+  .social-buttons a:hover {
+    background: linear-gradient(45deg,#22a6b3,#30336b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transform: scale(2.2);
+  }
+  
