@@ -9,6 +9,8 @@
 
 </head>
 
+
+
 <!--In this comment. Below this where I set the paragraph italic before using bootstraps
 <body>
 <h1>My Askim Webpage</h1> 
@@ -17,7 +19,7 @@
         This what my sacrifice for my country paid back. This is my first time in EDX  pursuing this java and html certification, I am  hoping to land me a new career and I’m excited to feed my brain with some good knowledge.
          </p></i>
     
-    </body--> >   
+    </body--> 
 
 
        <!--In this comment. BELOW I USED BOOTSTRAPS AND I GOT THIS AWESOME DISPLAY-->  
@@ -26,8 +28,7 @@
     
     
         <div class="container"> 
-            <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-            <h1> Hello, world this is my askim Webpage!</h1>
+            <h1> Hello, world this is my askim We!</h1>
             <p> My name is James I’ve lived in Florida, I am used to be in the military U.S  Active Army then Air Force Reserve, but currently unemployed. I was working for the VA unfortunatly coworker(s) unlawfully lied and discriminate agaisnt me and got me fired. 
                 This what my sacrifice for my country paid back. This is my first time in EDX  pursuing this java and html certification, I am  hoping to land me a new career and I’m excited to feed my brain with some good knowledge. </p>
     
@@ -120,6 +121,62 @@
 
 </body>
 
+<title>American City</title>
+    <style>
+        table {
+            border: 2px solid rgb(248, 237, 237);
+            border-collapse: collapse;
+            width: 50%;
+        }
+
+        th, td {
+            border: 1px solid rgb(222, 235, 166);
+            padding: 5px;
+            text-align: center;
+        }
+
+        th {
+            background-color: lightgray;
+        }
+    </style>
+
+
+<table>
+    <tbody><tr>
+        <th>Boston</th>
+        <th>Maryland</th>
+        <th>Tennessee</th>
+        
+    </tr>
+
+    <tr>
+        <td>John</td>
+        <td>Winthrop</td>
+        <td>1588-1649</td>
+    </tr>
+    <tr>
+        <td>LORD</td>
+        <td>Baltimore</td>
+        <td>1634-1649</td>
+    </tr>
+       <tr>
+        <td>LORD</td>
+        <td>Mullet</td>
+        <td>1541-1714</td>
+    </tr>
+    
+    <tr>
+        <td>Micheal</td>
+        <td>Simmons</td>
+        <td>1853-1889</td>   
+    </tr>
+</tbody></table>
+
+</head>
+
+
+            
+        
 
 
 <!--In this comment. Below this where if I am on a smaller window  or anything smaller than that  their background ends will be blue-->
@@ -144,14 +201,6 @@ body {
 
 
 
-
-
-
-
-
-
-
-<!--In this comment. Below this where CSS properties, five different types of CSS selectors in my page-->
 
 <h2><!--In this comment. Later on I can add more paragraphs--></h2>
 
@@ -191,9 +240,8 @@ body {
 
 
 </body>
-</body>
 
-<!--In this comment. Below this where    in my page-->
+</body>
 
 </body>
 </html>
